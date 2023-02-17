@@ -2,7 +2,10 @@
 
 See ["A Neural PDE Solver with Temporal Stencil Modeling"](https://arxiv.org/abs/2302.08105) for the paper associated with this codebase.
 
-Coming soon...
+<p align="center">
+  <img src="https://github.com/Edward-Sun/RECITE/blob/main/tsm_main.png?raw=true" alt="TSM Illustration"/>
+</p>
+
 
 
 ## Reference
