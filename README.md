@@ -21,7 +21,7 @@ cd ..
 
 ## Data
 
-Both the training and evluation data can be deterministically generated.
+Both the training and evaluation data can be deterministically generated.
 Please see the [data_generation](data_generation.md) for more details.
 
 ## Reproduction
